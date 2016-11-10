@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/xampp/htdocs/lara/VueApp/resources/assets/js/components/NewContact.vue</file>
+            <file>file:/C:/xampp/htdocs/lara/VueApp/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara/VueApp/resources/assets/sass/_ms.scss</file>
+            <file>file:/C:/xampp/htdocs/lara/VueApp/resources/assets/js/components/ListContacts.vue</file>
+            <file>file:/C:/xampp/htdocs/lara/VueApp/resources/assets/sass/app.scss</file>
+        </group>
     </open-files>
 </project-private>
